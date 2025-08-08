@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new 0 0 580 580"
+   height="580"
+   viewBox="0 0 580 580"
+   width="580"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="transport_tram_stop2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="1.3810345"
+     inkscape:cx="266.82896"
+     inkscape:cy="290"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <path
+     d="m 81.353501,216.22759 0.751768,-97.21399 c -67.56957,0.33239 -67.714699,97.11427 -0.751768,97.21399 z"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width)"
+     id="path26" />
+  <path
+     d="m 81.071934,418.7334 0.751768,-97.21399 c -67.569569,0.33138 -67.714699,97.11427 -0.751768,97.21399 z"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width)"
+     id="path28" />
+  <path
+     d="m 81.377239,302.35473 0.102015,-68.50593 c -15.810256,-0.50854 -23.142551,-2.99847 -30.368327,-7.18423 l -0.121223,81.41691 c 7.183165,-4.13331 14.794973,-6.01298 30.387565,-5.72675 z"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width)"
+     id="path30" />
+  <path
+     d="m 368.79506,136.15356 10.25741,9.80829 -0.11639,78.13691 77.04187,-114.0104 87.78217,130.89387 -88.24897,133.54273 -76.62497,-116.92323 -0.12077,81.1049 -10.28474,8.5447 -0.14116,94.80589 -29.14958,-0.30241 -4.6e-4,0.309 -131.36407,65.75645 -79.61591,-0.11857 c -14.37898,-0.0214 -29.301682,-17.02265 -29.242407,-29.96758 l 0.615558,-413.343537 105.759879,0.157498 0.592,8.86e-4 132.17685,0.196872 1.412,0.0021 29.37797,0.04376 z M 531.50307,241.02398 455.94477,128.35734 380.01837,240.71739 455.54682,355.965 Z M 324.38523,288.4366 136.21831,288.24438 c -9.83357,1.72036 -11.66579,8.58263 -16.94999,14.08377 l -0.0697,46.80595 c 5.40475,5.54605 7.14333,12.54865 17.08071,14.31746 l 188.16665,0.36921 c 4.237,0.007 8.41982,-5.91247 13.23902,-12.75729 l 0.0738,-49.58295 c -4.87164,-6.96427 -9.0846,-13.03755 -13.3736,-13.04393 z m -74.36876,178.40845 87.56002,-42.92466 0.0599,-40.27796 -132.31405,-0.069 -0.0837,56.24094 c -0.0194,12.94999 15.50915,34.82714 44.7778,27.03072 z M 325.01849,78.754302 222.62848,78.692838 c -9.69054,1.695573 -11.62649,8.375692 -16.73662,13.832092 l -0.23847,160.14582 c 5.34476,5.54197 6.6961,12.70098 16.59548,14.46373 l -0.0123,0.91898 102.56821,-0.0622 c 3.788,0.005 8.18728,-6.23282 13.0215,-13.08663 L 338.06982,91.340763 C 333.3349,84.569712 329.21355,78.760561 325.01855,78.754312 Z"
+     fill="param(fill)"
+     fill-opacity="param(fill-opacity)"
+     stroke="param(outline)"
+     stroke-opacity="param(outline-opacity)"
+     stroke-width="param(outline-width)"
+     id="path32" />
+</svg>
